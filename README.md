@@ -9,7 +9,7 @@ PADMINI is a very small 5 buttons MicroPad that is based on XIAO RP2040. I added
 
 
 **#**
-XIAO RP2040<br>
+1 x XIAO RP2040<br>
 **#**
 5 x MX-Style switches <br>
 **#**
