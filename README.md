@@ -2,6 +2,7 @@
  <img width="916" height="601" alt="Screenshot (80)" src="https://github.com/user-attachments/assets/4d792273-7859-4c92-8a4b-f6043e785bd4" />
 
 PADMINI is a very small 5 buttons MicroPad that is based on XIAO RP2040. I added regular days Shortcuts to it that would help me in my days to day work.
+The 5 buttions are for Copy,Paste,Delete,ScreenShot and Full Brightness. The PCB way design and made in kicad and 3d case was done in Fusion. I followed the Guild from HackClub which helped me a lot to process with this project. I did the farmware in circuit Python and KMK. It was Great working on this project.
 ## 🧾 Bill of Materials (BOM)
 
 
